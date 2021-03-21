@@ -1,0 +1,17 @@
+{
+  "name": "node-ts-script-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "esrun src/foo.ts --option=bar --verbose -S"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@digitak/esrun": "^1.0.6",
+    "@types/minimist": "^1.2.1",
+    "@types/node": "^14.14.35",
+    "minimist": "^1.2.5"
+  }
+}
