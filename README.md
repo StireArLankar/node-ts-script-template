@@ -6,7 +6,7 @@ yarn
 ```
 
 ## Update / add scripts
-```json
+```json5
 {
   ...
   "scripts": {
